@@ -4,11 +4,11 @@
 
 @media (prefers-color-scheme: light) {
   body {
-    --bg-color: #f8f8f8;
-    --primary-color: #262262;
-    --primary-contrast: #fff;
-    --primary-shadow: rgba(0,0,0,0.04);
-    --secondary-color: #222;
+    --bg-color: #ffffff;
+    --primary-color: #f5ab0c;
+    --primary-contrast: #2e2d2d;
+    --primary-shadow: rgba(32, 29, 216, 0.04);
+    --secondary-color: #177fe0;
     --secondary-contrast: #bc8dc0;
   }
 }
@@ -16,9 +16,9 @@
 @media (prefers-color-scheme: dark) {
   body {
     --bg-color: #f8f8f8;
-    --primary-color: #5f55e7;
-    --primary-contrast: #fff;
-    --secondary-color: #262262;
+    --primary-color: #f8d330;
+    --primary-contrast: #1f1a1a;
+    --secondary-color: #177fe0;
     --secondary-contrast: #ffffff;
   }
 }
